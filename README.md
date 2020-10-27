@@ -1,6 +1,6 @@
 # digitalOceanStatus
 
-Display a web page showing Digital Ocean status (using DigitalOcean Status API)
+Example repo to display a web page showing Digital Ocean status (using DigitalOcean Status API)
 
 # Running application without Docker
 
