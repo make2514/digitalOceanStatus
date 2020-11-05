@@ -1,4 +1,4 @@
-# digitalOceanStatus
+# digitalOceanStatus (for the course: http://devopswithdocker.com/)
 
 Example repo to display a web page showing Digital Ocean status (using DigitalOcean Status API)
 
